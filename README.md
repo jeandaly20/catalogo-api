@@ -6,7 +6,9 @@
 |---|---|
 | Jean Carlos Suárez Acevedo | Desarrollo completo: modelo de datos, API, autenticación, pruebas y documentación |
 
-> Actividad desarrollada de forma individual.
+> Actividad desarrollada de forma individual para la asignatura **Desarrollo Web** (UNEMI, periodo agosto – diciembre 2026).
+>
+> Repositorio: https://github.com/jeandaly20/catalogo-api
 
 ## Propósito
 
@@ -76,7 +78,7 @@ Flujo de una petición: **ruta → middleware (JWT / rol) → controlador (valid
 ## Instalación
 
 ```bash
-git clone <URL-del-repositorio>
+git clone https://github.com/jeandaly20/catalogo-api.git
 cd catalogo-api
 npm install
 ```
